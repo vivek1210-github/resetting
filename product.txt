@@ -2,3 +2,4 @@ productmodule
 addproductform
 editproductform
 showallproducts
+delete product
