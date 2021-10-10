@@ -2,3 +2,4 @@ registerForm
 loginForm
 addresetpassword
 contactform
+profilesearchform
