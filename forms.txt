@@ -1,1 +1,2 @@
 registerForm
+loginForm
