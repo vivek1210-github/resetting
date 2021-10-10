@@ -2,3 +2,4 @@ addbasichtml
 addbootstrapcdn
 addnavbar
 add gallery slider
+add services cards
