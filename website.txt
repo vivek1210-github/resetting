@@ -3,3 +3,4 @@ addbootstrapcdn
 addnavbar
 add gallery slider
 add services cards
+add feature toggler
