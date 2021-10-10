@@ -1,3 +1,4 @@
 addbasichtml
 addbootstrapcdn
 addnavbar
+add gallery slider
