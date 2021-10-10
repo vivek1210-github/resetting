@@ -3,3 +3,4 @@ addproductform
 editproductform
 showallproducts
 delete product
+searchproducts
