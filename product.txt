@@ -5,3 +5,4 @@ showallproducts
 delete product
 searchproducts
 filterproducts by price
+sortfilters
